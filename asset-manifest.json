@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/github-react-share-component/static/css/main.afd7172b.chunk.css",
-    "main.js": "/github-react-share-component/static/js/main.74f8be51.chunk.js",
-    "main.js.map": "/github-react-share-component/static/js/main.74f8be51.chunk.js.map",
+    "main.css": "/github-react-share-component/static/css/main.bab0b925.chunk.css",
+    "main.js": "/github-react-share-component/static/js/main.45410d11.chunk.js",
+    "main.js.map": "/github-react-share-component/static/js/main.45410d11.chunk.js.map",
     "runtime-main.js": "/github-react-share-component/static/js/runtime-main.d7ac1e37.js",
     "runtime-main.js.map": "/github-react-share-component/static/js/runtime-main.d7ac1e37.js.map",
     "static/js/2.b6f8bd56.chunk.js": "/github-react-share-component/static/js/2.b6f8bd56.chunk.js",
     "static/js/2.b6f8bd56.chunk.js.map": "/github-react-share-component/static/js/2.b6f8bd56.chunk.js.map",
     "index.html": "/github-react-share-component/index.html",
-    "static/css/main.afd7172b.chunk.css.map": "/github-react-share-component/static/css/main.afd7172b.chunk.css.map",
+    "static/css/main.bab0b925.chunk.css.map": "/github-react-share-component/static/css/main.bab0b925.chunk.css.map",
     "static/js/2.b6f8bd56.chunk.js.LICENSE.txt": "/github-react-share-component/static/js/2.b6f8bd56.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d7ac1e37.js",
     "static/js/2.b6f8bd56.chunk.js",
-    "static/css/main.afd7172b.chunk.css",
-    "static/js/main.74f8be51.chunk.js"
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.45410d11.chunk.js"
   ]
 }
